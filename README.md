@@ -2,7 +2,7 @@
 
 It is the simplest Multilayer Perceptron to solve XOR problem.
 
-# Overview
+## Overview
 
 The architecture adopted to solve the XOR problem is shown below:
 
@@ -13,7 +13,7 @@ Found in:
 - BEALE, Russell; JACKSON, Tom. [Neural Computing-an introduction](https://bayanbox.ir/view/7901640340179926235/Neural-Computing-An-Introduction.pdf "Neural Computing-an introduction"). CRC Press, 1990. (Chapter: 4, Page: 75). 
 
 
-# Dependencies
+## Dependencies
 
 - datetime
 - matplotlib
@@ -23,16 +23,15 @@ Found in:
 
 You can install missing dependencies with [pip](https://pip.pypa.io/en/stable/ "pip").
 
-# Usage
+## Usage
 
 1. Install the dependencies;
 2. Open terminal and run python Multilayer-Perceptron-XOR.py
 
-# Recommended Readings
+## Recommended Readings
 
 - BEALE, Russell; JACKSON, Tom. [Neural Computing-an introduction](https://bayanbox.ir/view/7901640340179926235/Neural-Computing-An-Introduction.pdf "Neural Computing-an introduction"). CRC Press, 1990.
 
-# License
+## License
 
 Code released under the [MIT](https://github.com/whoisraibolt/Multilayer-Perceptron/blob/master/LICENSE "MIT") license.
-
