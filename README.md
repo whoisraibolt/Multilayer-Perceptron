@@ -1,5 +1,10 @@
 # Multilayer Perceptron
 
+![GitHub language count](https://img.shields.io/github/languages/count/whoisraibolt/Multilayer-Perceptron.svg)
+![GitHub top language](https://img.shields.io/github/languages/top/whoisraibolt/Multilayer-Perceptron.svg)
+![GitHub repo size](https://img.shields.io/github/repo-size/whoisraibolt/Multilayer-Perceptron.svg)
+![GitHub](https://img.shields.io/github/license/whoisraibolt/Multilayer-Perceptron.svg)
+
 It is the simplest Multilayer Perceptron to solve XOR problem.
 
 ## Overview
